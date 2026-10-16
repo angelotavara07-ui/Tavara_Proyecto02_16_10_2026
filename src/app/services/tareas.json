@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": 1,
+    "curso": "Aplicaciones Web Progresivas",
+    "titulo": "Implementar almacenamiento local",
+    "fechaEntrega": "2026-10-25",
+    "estadoAcademico": "Pendiente"
+  },
+  {
+    "id": 2,
+    "curso": "Aplicaciones Web Progresivas",
+    "titulo": "Configurar el App Manifest",
+    "fechaEntrega": "2026-10-28",
+    "estadoAcademico": "En progreso"
+  },
+  {
+    "id": 3,
+    "curso": "Desarrollo de Aplicaciones Web",
+    "titulo": "Crear formulario de registro",
+    "fechaEntrega": "2026-10-30",
+    "estadoAcademico": "Pendiente"
+  },
+  {
+    "id": 4,
+    "curso": "Desarrollo de Aplicaciones Web",
+    "titulo": "Validar los datos del formulario",
+    "fechaEntrega": "2026-11-02",
+    "estadoAcademico": "Completada"
+  },
+  {
+    "id": 5,
+    "curso": "Base de Datos",
+    "titulo": "Diseñar el modelo entidad-relación",
+    "fechaEntrega": "2026-11-05",
+    "estadoAcademico": "Pendiente"
+  },
+  {
+    "id": 6,
+    "curso": "Base de Datos",
+    "titulo": "Documentar las tablas del proyecto",
+    "fechaEntrega": "2026-11-08",
+    "estadoAcademico": "En progreso"
+  }
+]
